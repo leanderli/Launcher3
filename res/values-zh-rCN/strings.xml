@@ -19,7 +19,7 @@
 
 <resources xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="app_name" msgid="649227358658669779">"Launcher3"</string>
+    <string name="app_name" msgid="649227358658669779">"Launcher3-辣鸡版"</string>
     <string name="folder_name" msgid="7371454440695724752"></string>
     <string name="work_folder_name" msgid="3753320833950115786">"Work"</string>
     <string name="activity_not_found" msgid="8071924732094499514">"未安装该应用。"</string>
@@ -142,7 +142,7 @@
     <string name="title_app_suggestions">显示应用推荐</string>
     <string name="summary_app_suggestions">位于“所有应用”列表的顶部</string>
     <string name="about_app_version">版本</string>
-    <string name="app_name_pixel_launcher">Pixel Launcher</string>
+    <string name="app_name_pixel_launcher">Pixel Launcher-辣鸡版</string>
     <string name="title_disable_suggestions_prompt">要关闭应用推荐吗？</string>
     <string name="msg_disable_suggestions_prompt">关闭后，系统将不会在您的应用列表顶部显示推荐应用，并且将永久清空用于生成这些信息的使用数据。</string>
     <string name="label_turn_off_suggestions">关闭</string>
